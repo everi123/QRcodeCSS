@@ -23,12 +23,12 @@ desktop view:
 ![](/images/screenshotdesktop.png)
 
 mobile view:
-![](/images/screenshotmob.png)
+![](/images/screeshotmob.png)
 
 ### Links
 
-- Solution URL: [on github](https://github.com/everi123/QRcodeCSS)
-- Live Site URL: [on netfly](https://verdant-tanuki-a71d0a.netlify.app/)
+- Solution URL: [](https://github.com/everi123/QRcodeCSS)
+- Live Site URL: [](https://verdant-tanuki-a71d0a.netlify.app/)
 
 ## My process
 
