@@ -26,8 +26,8 @@ mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/everi123/QRcodeCSS)
-- Live Site URL: [Add live site URL here](https://verdant-tanuki-a71d0a.netlify.app/)
+- Solution URL: [on github](https://github.com/everi123/QRcodeCSS)
+- Live Site URL: [on netfly](https://verdant-tanuki-a71d0a.netlify.app/)
 
 ## My process
 
@@ -44,12 +44,12 @@ mobile view:
 ### What I learned
  skill that i gained while practicing on this challenge:
  
- -how to center a div using flexbox layout
- -difference between semantics and non-semantic structure properties
- -usage of different type of unit(rem,vh,px)
- -how to direct your thought to design mobile-first and advantages that the latter facilitates.
+ . how to center a div using flexbox layout
+ . difference between semantics and non-semantic structure properties
+ . usage of different type of unit(rem,vh,px)
+ . how to direct your thought to design mobile-first and advantages that the      latter facilitates.
 
-To see how you can add code snippets, see below:
+### my favourite part of code
 
 
 ```css
@@ -81,4 +81,4 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Website - [David Mugisha](https://github.com/everi123/QRcodeCSS)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@everi123](https://www.frontendmentor.io/profile/everi123")
