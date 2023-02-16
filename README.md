@@ -21,8 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 desktop view:
 ![](/images/screenshotdesktop.png)
+
 mobile view:
-![](/images/mobileview.png)
+![](/images/screenshotmob.png)
 
 ### Links
 
@@ -42,12 +43,13 @@ mobile view:
 
 
 ### What I learned
- skill that i gained while practicing on this challenge:
+
+#### skill that i gained while practicing on this challenge:
  
- . how to center a div using flexbox layout
- . difference between semantics and non-semantic structure properties
- . usage of different type of unit(rem,vh,px)
- . how to direct your thought to design mobile-first and advantages that the      latter facilitates.
+ - how to center a div using flexbox layout
+ - difference between semantics and non-semantic structure properties
+ - usage of different type of unit(rem,vh,px)
+ - how to direct your thought to design mobile-first and advantages that the      latter facilitates.
 
 ### my favourite part of code
 
