@@ -18,17 +18,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
  this is an exercise that aim to apply css basics foundation for everyone who want  to have  fun with css.
-### Screenshot
-desktop view:
+### Screenshot:
+#### desktop view
 ![](/images/screenshotdesktop.png)
 
-mobile view:
+#### mobile view
 ![](/images/screeshotmob.png)
 
 ### Links
 
-- Solution URL: [](https://github.com/everi123/QRcodeCSS)
-- Live Site URL: [](https://verdant-tanuki-a71d0a.netlify.app/)
+- Solution URL: [here](https://github.com/everi123/QRcodeCSS)
+- Live Site URL: [on netfly](https://verdant-tanuki-a71d0a.netlify.app/)
 
 ## My process
 
